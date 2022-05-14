@@ -1,1 +1,44 @@
-{}
+{
+  "event": [
+    {
+      "id": 0,
+      "origin": "gitlab.com",
+      "title": "New repository",
+      "description": "A new repository has been created with name <test-vue-js>",
+      "date": "January 28, 2022",
+      "time": "12:04"
+    },
+    {
+      "id": 1,
+      "origin": "github.com",
+      "title": "New pull request",
+      "description": "A new pull request has been created from <branch_source> to <branch_main>",
+      "date": "January 30, 2022",
+      "time": "10:34"
+    },
+    {
+      "id": 2,
+      "origin": "server_a_123.cloud.mock",
+      "title": "Add user",
+      "description": "A new user has been created. User id <myName>, Group id <myName>",
+      "date": "February 2, 2022",
+      "time": "11:03"
+    },
+    {
+      "id": 3,
+      "origin": "gitlab.com",
+      "title": "New repository",
+      "description": "A new repository has been created with name <test-vue-js>",
+      "date": "February 2, 2022",
+      "time": "12:04"
+    },
+    {
+      "id": 4,
+      "origin": "gitlab.com",
+      "title": "New branch",
+      "description": "A new branch has been created with name <new-branch-name>",
+      "date": "February 07, 2022",
+      "time": "06:01"
+    }
+  ]
+}
